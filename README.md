@@ -4,4 +4,4 @@ Deployed Link:- https://disney-clone-ott.netlify.app/
 
 ![image](https://github.com/nakkina-sekhar/disney-plus-ott/blob/master/homepage.gif)
 
-![image]()
+![image](https://github.com/nakkina-sekhar/disney-plus-ott/blob/master/page.png)
